@@ -336,7 +336,7 @@
   </div>
 </template>
 <script>
-import { Navbar, DropDown } from '@/components';
+import { Navbar, DropDown } from '../../components';
 
 export default {
   components: {

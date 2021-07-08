@@ -124,7 +124,7 @@
   </div>
 </template>
 <script>
-import { Tabs, TabPane } from '@/components';
+import { Tabs, TabPane } from '../components';
 
 export default {
   name: 'profile',

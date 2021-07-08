@@ -149,7 +149,7 @@ import {
   FormGroupInput,
   Slider,
   Switch
-} from '@/components';
+} from '../../components';
 
 export default {
   components: {

@@ -227,7 +227,7 @@
   </div>
 </template>
 <script>
-import { Button, FormGroupInput } from '@/components';
+import { Button, FormGroupInput } from '/components';
 export default {
   name: 'landing',
   bodyClass: 'landing-page',
